@@ -1,0 +1,143 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.top{
+  height: 950px;
+  border: solid 2px;
+  width: 16%;
+  display: inline-block;
+  color:black;
+  /* float: left; */
+}
+.size{
+  font-size: 50px;
+  color: yellowgreen;
+  background-color: #123456;
+  font-family: cursive;
+}
+.clear{
+  clear: both;
+}
+nav ul{
+  text-align: right;
+  list-style-type: none;
+}
+nav ul li{
+  color: white;
+  background-color: royalblue;
+  display: inline-block;
+  margin-left:20px;
+  text-transform: capitalize;
+  font-size: 32px;
+  margin-right: 10px;
+  font-family: cursive;
+}
+nav ul li a{
+  text-decoration: none;
+  color: #eee;
+}
+body{
+  background-color:black;
+}
+div img{
+  width: 100%;
+  height: 100%;
+}
+div h1{
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.box{
+  border: solid 2px;
+  border-radius: 10px;
+  background-color: royalblue;
+}
+.move{
+  color: yellow;
+  text-decoration: underline;
+  text-transform: capitalize;
+  margin: 2px;
+}
+a:hover{
+  color: yellow;
+}
+.middle{
+  color: white;
+  width: 65%;
+  /* border-right: white solid 3px; */
+  height: 100%;
+  /* display: inline-block; */
+  float: right;
+  margin-right: 10%;
+  margin-top: 50px;
+}
+div table{
+  width: 100%;
+  /* border-right: solid white 3px; */
+}
+div table tr td img{
+  width: 200px;
+  height: 200px;
+  margin-top: 50px;
+}
+div table tr td p{
+  text-align: center;
+  text-transform: uppercase;
+}
+div table tr td p a{
+  text-decoration: none;
+  color: yellowgreen;
+}
+.heading{
+  font-size: 32px;
+  color: yellowgreen;
+  font-family: cursive;
+  text-transform: uppercase;
+  text-decoration: underline;
+  padding-bottom: 10px;
+}
+div table tr td a{
+  text-decoration: none;
+  color: yellowgreen;
+  text-transform: capitalize;
+  font-size: 15px;
+  font-family: cursive;
+}
+input{
+  width: 50%;
+  background-color: #eee;
+  height: 32px;
+  font-family: monospace;
+  font-size: 32px;
+}
+button{
+  width: 100px;
+  height: 32px;
+  margin-left: 15px;
+}
+button:hover{
+  background-color: skyblue;
+}
+.last{
+  margin-top: 32px;
+  font-size: 25px;
+}
+div p img{
+  width: 100%;
+  height: 250px;
+}
+div hr{
+  margin-top: 20px;
+}
+.margin{
+  margin-top: 20px;
+}
+.center{
+  text-align: center;
+  font-size: 55px;
+  font-family: cursive;
+  margin-top: 32px;
+  color: yellowgreen;
+}
